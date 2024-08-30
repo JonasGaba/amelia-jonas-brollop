@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.eab4cf61.js",
+    "main.css": "/static/css/main.caba9e07.css",
+    "main.js": "/static/js/main.1b24c38b.js",
     "static/js/453.b9cc7eaa.chunk.js": "/static/js/453.b9cc7eaa.chunk.js",
-    "static/media/ammebil.jpg": "/static/media/ammebil.9e9881bf7b2bf7b767a7.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/kullarklang.jpg": "/static/media/kullarklang.6e115abdb889b600f4b1.jpg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.eab4cf61.js.map": "/static/js/main.eab4cf61.js.map",
+    "main.caba9e07.css.map": "/static/css/main.caba9e07.css.map",
+    "main.1b24c38b.js.map": "/static/js/main.1b24c38b.js.map",
     "453.b9cc7eaa.chunk.js.map": "/static/js/453.b9cc7eaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.eab4cf61.js"
+    "static/css/main.caba9e07.css",
+    "static/js/main.1b24c38b.js"
   ]
 }
